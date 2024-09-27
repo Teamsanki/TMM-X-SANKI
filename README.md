@@ -22,7 +22,7 @@
 
 
 
-[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TMM-TEAM/musicbot)
+[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYRUSSTAINES)
 
 
 
@@ -91,7 +91,7 @@ The Aviax Music Bot offers a range of commands to enhance your music listening e
 | `/stop`                 | Stop the bot and clear the queue.           |
 | `/queue`                | Display the list of songs in the queue.     |
 
-For any type of help in bots, contact to owner in [telegram](https://t.me/moh_maya_official).
+For any type of help in bots, contact to owner in [telegram](https://t.me/TDNETWORKK).
 
 ---
 
@@ -100,10 +100,10 @@ For any type of help in bots, contact to owner in [telegram](https://t.me/moh_ma
 Stay updated with the latest features and improvements to  Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/tmm_support_chat">
+  <a href="https://telegram.me/tdnetworkk">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/tmm_heroku_world">
+  <a href="https://telegram.me/TDXBOTSS">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -133,5 +133,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ### 🙏 Acknowledgements
 
 Special thanks to all the contributors, supporters, and users of the  Music Bot. Your feedback and support keep us going!
-- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [Aayu](https://github.com/aayu820/Musicbot) For their Source Codes.
+- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [CYRUS ](https://github.com/CYRUSSTAINES) For their Source Codes.
 
